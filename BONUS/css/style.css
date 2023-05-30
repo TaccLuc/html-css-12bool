@@ -43,6 +43,9 @@
 .dark-green{
     background-color:#637151;
 }
+.light-green{
+    background-color:#90C17D;
+}
 
 .orange{
     background-color:#FFC925;
@@ -60,3 +63,10 @@
     background-color:#330110;
 }
 
+.light-green{
+    background-color:#90C17D;
+}
+
+.white{
+    background-color: white;
+}
