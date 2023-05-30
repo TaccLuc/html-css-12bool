@@ -1,0 +1,21 @@
+
+/* 
+    GENERAL
+*/
+
+.box{
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    background-color: aqua;
+    margin: 2px;
+}
+
+.padding-box{
+    padding: 10px;
+}
+
+.nested-box{
+    background-color: greenyellow;
+    line-height: 30px;
+}
