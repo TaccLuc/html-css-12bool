@@ -1,0 +1,62 @@
+/* 
+    RESET
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+    GENERAL
+*/
+
+.box{
+    height: calc(100vw / 48);
+    background-color: black;
+}
+
+/* 
+    COLOR CLASSES
+*/
+
+.purple{
+    background-color:#602466 ;
+}
+.dark-purple-1{
+    background-color:#5F3879;
+}
+.dark-purple-2{
+    background-color:#6962B1;
+}
+.dark-purple-3{
+    background-color:#B481D7;
+}
+.light-purple{
+    background-color:#C2B9F4;
+}
+
+.green{
+    background-color:#72E33B ;
+}
+.dark-green{
+    background-color:#637151;
+}
+
+.orange{
+    background-color:#FFC925;
+}
+
+.light-orange{
+    background-color:#CA99A5;
+}
+
+.red{
+    background-color:#5E0003;
+}
+
+.dark-red{
+    background-color:#330110;
+}
+
