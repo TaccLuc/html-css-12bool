@@ -15,6 +15,7 @@
 .box{
     height: calc(100vw / 48);
     background-color: black;
+    border: 1px solid black;
 }
 
 /* 
